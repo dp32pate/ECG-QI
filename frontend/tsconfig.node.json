@@ -3,7 +3,7 @@
   "compilerOptions": {
     "composite": true,
     "skipLibCheck": true,
-    "noEmit": true,
+    "noEmit": false,
     "types": ["vite/client"]
   },
   "include": ["vite.config.ts"]
